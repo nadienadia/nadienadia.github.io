@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "trying this out"
+date:   2021-04-30 11:06:20 -0600
+categories: Blog posts
+---
+
+Ok, trying to see how this works.
